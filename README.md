@@ -13,7 +13,7 @@ Proje **HTML, CSS ve JavaScript** kullanılarak geliştirilmiştir ve tamamen ta
 
 ##  Önizleme
 
-![To Do List Preview]()
+![To Do List Preview](https://github.com/BaranDogrular/todo-list-js/blob/35bca80b602cb4c05d42301df1cef9b9999520c3/screenshot.png)
 
 ##  Özellikler
 
