@@ -11,6 +11,10 @@ Proje **HTML, CSS ve JavaScript** kullanılarak geliştirilmiştir ve tamamen ta
 
 ---
 
+##  Önizleme
+
+![To Do List Preview](screenshots/preview.png)
+
 ##  Özellikler
 
 *  Görev ekleme
