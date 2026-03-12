@@ -13,7 +13,7 @@ Proje **HTML, CSS ve JavaScript** kullanılarak geliştirilmiştir ve tamamen ta
 
 ##  Önizleme
 
-![To Do List Preview](https://github.com/BaranDogrular/responsive-landing-page/blob/f74f53fe2977bb339a9ee0431b4f116eab7a4795/screenshot..png)
+![To Do List Preview]()
 
 ##  Özellikler
 
